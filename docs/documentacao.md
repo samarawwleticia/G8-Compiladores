@@ -11,7 +11,7 @@
 - Operadores aritméticos: `+`, `-`, `*`, `/`, `=`  
 - Delimitadores: `(`, `)`, `{`, `}`, `;`  
 
-# 📅 6 de abril
+# 📅 10 de abril
 
 ## Teste de Software
 
