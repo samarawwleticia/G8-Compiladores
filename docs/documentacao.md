@@ -10,3 +10,11 @@
 - Operadores lógicos: `&&`, `||` e `!`  
 - Operadores aritméticos: `+`, `-`, `*`, `/`, `=`  
 - Delimitadores: `(`, `)`, `{`, `}`, `;`  
+
+# 📅 6 de abril
+
+## Teste de Software
+
+- Teste utilizando condicional `if`, declaração de tipos, operadores, delimitadores.
+
+O lexer.l passou no teste.
