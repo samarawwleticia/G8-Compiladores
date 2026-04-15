@@ -1,0 +1,26 @@
+site_name: Compiladores
+site_description: Documentação do projeto de Compiladores
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+nav:
+  - Início: index.md
+  - Documentação:
+      - Documentação: documentacao
+  - Sprints:
+      - Sprint 1: sprints
