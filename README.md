@@ -41,27 +41,7 @@ As próximas etapas do projeto incluem:
 
 ---
 
-## 3. Compilação e Execução
-
-Para compilar e executar o projeto em ambiente Linux/Unix, utilize os seguintes comandos:
-
-```bash
-# Gerar o parser com Bison
-bison -d parser.y
-
-# Gerar o lexer com Flex
-flex lexer.l
-
-# Compilar os arquivos gerados
-gcc lex.yy.c parser.tab.c -o compilador_c_lua
-
-# Executar o compilador
-./compilador_c_lua < seu_codigo.c
-```
-
----
-
-## 4. Equipe
+## 3. Equipe
 
 <table>
   <tr>
