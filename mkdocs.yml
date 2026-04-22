@@ -21,6 +21,9 @@ theme:
 nav:
   - Início: index.md
   - Documentação:
-      - Documentação: documentacao
+      - Relatório de Desenvolvimento: documentacao/relatoriodesenvolvimento.md
+      - Especificações do Compilador: documentacao/specs.md
   - Sprints:
-      - Sprint 1: sprints
+      - Índice de Sprints: documentacao/sprints/index.md
+      - Sprint 1: documentacao/sprints/sprint1.md
+      - Sprint 2: documentacao/sprints/sprint2.md
