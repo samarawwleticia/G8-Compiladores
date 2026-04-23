@@ -1,9 +1,11 @@
 site_name: Compiladores
 site_description: Documentação do projeto de Compiladores
-features:
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
+theme:
+    name: material
+    features:
+        - search.suggest
+        - search.highlight
+        - content.tabs.link
 plugins:
   - search
 nav:
@@ -16,4 +18,4 @@ nav:
     - Sprint 1: documentacao/sprints/sprint1.md
     - Sprint 2: documentacao/sprints/sprint2.md
     
-theme: material
+
